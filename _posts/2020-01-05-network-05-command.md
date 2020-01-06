@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: [network]
 ---
 ## Instruction
 
